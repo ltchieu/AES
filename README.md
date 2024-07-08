@@ -1,1 +1,3 @@
-Demo để sủ dụng thuật toán mã hóa AES để mã hóa một đoạn dữ liệu 128bit.
+- Demo để sử dụng thuật toán mã hóa AES để mã hóa trên một đoạn dữ liệu 128bit.
+- Gồm 1 file thư viện aes.h, một file source aes.cpp và file main.cpp để chạy chương trình
+- Tài liệu tham khảo: https://csrc.nist.gov/files/pubs/fips/197/final/docs/fips-197.pdf
